@@ -10,6 +10,7 @@
     <form id="form1" runat="server">
     <div>
         <h1>HOŞ GELDİNİZ!</h1>
+        <h1>DEPLOY JENKINS</h1>
     </div>
     </form>
 </body>
